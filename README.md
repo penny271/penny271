@@ -13,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+Adding the daily.dev DevCard to your GitHub profile
+- 自動でdaily.devの読書記録を更新してくれる git actionを作成
+- 設定の仕方のurl: 
+- https://tinyurl.com/2axk69r8https://tinyurl.com/2axk69r8
+-->
